@@ -79,6 +79,7 @@ function SWEP:PrimaryAttack()
             local mine = ents.Create("s-mine");
             mine:SetPos(PlayerTrace + Vector(0, 0, -6));
             mine:Spawn();
+	    mine:SetAngles( Angle(0,self:GetOwner():EyeAngles().y + 90,0) );
             mine:SetCreator( self:GetOwner() );
         end;
 
