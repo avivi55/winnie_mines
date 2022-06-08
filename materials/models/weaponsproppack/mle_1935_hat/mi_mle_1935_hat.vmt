@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/weaponsproppack/Mle_1935_HAT/MI_Mle_1935_HAT_d"
+"$bumpmap" "models/weaponsproppack/Mle_1935_HAT/MI_Mle_1935_HAT_n"
+"$ambientocculusion" "models/weaponsproppack/Mle_1935_HAT/MI_Mle_1935_HAT_s"
+"$surfaceprop" "Metal"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

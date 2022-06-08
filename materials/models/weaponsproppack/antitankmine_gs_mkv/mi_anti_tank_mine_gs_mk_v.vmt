@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/weaponsproppack/AntiTankMine_GS_MKV/MI_Anti_Tank_Mine_GS_Mk_V_d"
+"$bumpmap" "models/weaponsproppack/AntiTankMine_GS_MKV/mi_anti_tank_mine_gs_mk_v_n"
+"$ambientocculusion" "models/weaponsproppack/AntiTankMine_GS_MKV/mi_anti_tank_mine_gs_mk_v_s"
+"$surfaceprop" "metal"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/weaponsproppack/Shrapnel_Mine_MK_II/MI_Shrapnel_Mine_Mk_II_d"
+"$bumpmap" "models/weaponsproppack/Shrapnel_Mine_MK_II/MI_Shrapnel_Mine_Mk_II_n"
+"$ambientocculusion" "models/weaponsproppack/Shrapnel_Mine_MK_II/MI_Shrapnel_Mine_Mk_II_s"
+"$surfaceprop" "Metal"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

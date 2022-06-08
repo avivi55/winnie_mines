@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/weaponsproppack/M2A1_Mine/MI_M2A1_Mine_d"
+"$bumpmap" "models/weaponsproppack/M2A1_Mine/MI_M2A1_Mine_n"
+"$ambientocculusion" "models/weaponsproppack/M2A1_Mine/MI_M2A1_Mine_s"
+"$surfaceprop" "Metal"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

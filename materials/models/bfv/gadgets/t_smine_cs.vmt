@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/bfv/gadgets/T_Smine_CS"
+"$bumpmap" "models/bfv/gadgets/T_Smine_NM"
+"$phong" "1"
+"$phongexponent" "6"
+"$phongalbedotint" "1"
+"$phongboost" ".15"
+"$phongfresnelranges"	"[3 5 7]"
+$halflambert 1
+"$envmap" "models\weapons/painted_silver"
+"$normalmapalphaenvmapmask" "1"
+"$envmaptint" "[0.1 0.1 0.1]"
+}
